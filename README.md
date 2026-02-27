@@ -3,7 +3,7 @@
 
 **If You Want To Buy This Grabber Premium Version Dm Me On Discord:**
 **Free Tools Server Link: https://discord.gg/tden**
-**My Dicord Ids: @slmpy @pushtuns**
+**My Discord Ids: @slmpy @pushtuns**
 
 **Installation:**
 **Run In Cmd** 
@@ -15,7 +15,7 @@
 
 **If You Have Any Problem Or Need Any Support Contact Me On Discord**
 **Server Link** **https://discord.gg/tden**
-**My Dicord Ids: @slmpy @pushtuns**
+**My Discord Ids: @slmpy @pushtuns**
 
 **Follow + Give Me A Star For More Free Tools**
 
