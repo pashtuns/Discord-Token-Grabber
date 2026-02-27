@@ -1,4 +1,0 @@
-compile to exe
-
-pip install pyinstaller
-pyinstaller --onefile stealer.py
